@@ -1,6 +1,9 @@
 # MichaelDanuEkklasiya_4522210056_TugasPBO
 MichaelDanuEkklasiya_4522210056_TugasPBO
 
+## Susunan Libray
+![image](https://github.com/michaeldanuekklasiya-web/MichaelDanuEkklasiya_4522210056_TugasPBO/assets/88574532/5b4302b9-2ca3-4c18-b601-6d0c182c3e33)
+
 ## Package Matriks - Matrik.java
 ![image](https://github.com/michaeldanuekklasiya-web/MichaelDanuEkklasiya_4522210056_TugasPBO/assets/88574532/1b88e9dc-d520-471c-9116-5179117a6877)
 
